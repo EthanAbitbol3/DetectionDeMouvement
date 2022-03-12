@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "morpho_erosion_swp64.h": "c",
+        "morpho_dilatation_swp8.h": "c",
+        "nrutil.h": "c"
+    }
+}
